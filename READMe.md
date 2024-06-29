@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=criscano11" alt="criscano11" /></a> </p>
 
-- 🔭 I’m currently working on [SAIA Software](https://www.saiasoftware.com/)
+- 🔭 I’m currently working on [SAIA Software](https://www.saiasoftware.com/) and Servicio Nacional de Aprendizaje [SENA](https://www.sena.edu.co/es-co/Paginas/default.aspx) 
 
 - 👨‍💻 All of my projects are available at [https://cristhiancano.com/projects](https://cristhiancano.com/projects)
 
